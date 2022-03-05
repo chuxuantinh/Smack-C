@@ -1,0 +1,1 @@
+../../../../../../../../../smack-core/src/main/java/org/jivesoftware/smack/util/stringencoder/package-info.java
